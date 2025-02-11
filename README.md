@@ -3,7 +3,7 @@ HTML, CSS, JavaScript, PHP, MySQL, XAMPP Server.
 Online-Food-Ordering-System
 Technologies Used: HTML, CSS, JavaScript, PHP, MySQL, XAMPP Server
 
-* Note:- Download the food.zip file in Your System & Exctract it.
+* Note:- "Download the food.zip file in Your System & Exctract it."
   
 🍽️ Food Ordering Website
 A fully functional food ordering website built with PHP and MySQL. This project allows users to browse menus, add items to a cart, place orders, and manage their accounts.
