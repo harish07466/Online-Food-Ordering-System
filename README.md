@@ -47,7 +47,7 @@ food_project/
 
 1️⃣ Clone the Repository  
 
-git clone https://github.com/your-username/food-ordering.git  
+git clone https://github.com/harish07466/Online-Food-Ordering-System.git  
 cd food-ordering/food
 
  2️⃣ Setup the Database  
